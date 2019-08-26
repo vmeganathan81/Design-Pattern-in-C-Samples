@@ -1,0 +1,22 @@
+﻿Where to Use factory Design Pattern?
+------------------------------------
+It would not be a good programming approach to specify the exact class name while creating the objects by the client. To overcome this problem, we need to use the Factory Design Pattern in C#. This design pattern provides the client with a simple mechanism to create the object. So, we need to use the Factory Design Pattern in C# when
+
+1. The Object needs to be extended to the subclasses
+2. Classes don’t know what exact sub-classes it has to create
+3. The Product implementation going to change over time and the Client remains unchanged
+
+Advantages of Simple Factory Design Pattern in C#
+-------------------------------------------------
+1. It’s very easy to implement
+2. The Client code remains unchanged when we add new products.
+3. The client does now know what subclasses it is using.
+
+Disadvantages of Simple Factory Design Pattern in C#
+----------------------------------------------------
+
+1. If we need to add any new product (i.e. new credit card type) then we need to a new if else condition in the GetCardInstance method of the CardFactory class. This violates the open/closed design principle.
+
+2. We also have a tight coupling between the Factory (CardFactory) class and products classes (MoneyBackCreditCard, TitaniumCreditCard, and PlatinumCreditCard).
+
+In the next article, I am going to discuss how to overcome the above problem by using the factory method design pattern in C#.

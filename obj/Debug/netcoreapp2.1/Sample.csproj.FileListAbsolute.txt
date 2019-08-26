@@ -1,0 +1,44 @@
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\Sample.deps.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\Sample.dll
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.dll
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\bin\Debug\netcoreapp2.1\Sample.deps.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\bin\Debug\netcoreapp2.1\Sample.dll
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.dll
+C:\Users\vijay.meganathan\Documents\Visual Studio 2017\Projects\ConsoleApp8\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\Vijay\source\repos\Sample\Sample\bin\Debug\netcoreapp2.1\Sample.deps.json
+C:\Users\Vijay\source\repos\Sample\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+C:\Users\Vijay\source\repos\Sample\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+C:\Users\Vijay\source\repos\Sample\Sample\bin\Debug\netcoreapp2.1\Sample.dll
+C:\Users\Vijay\source\repos\Sample\Sample\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.dll
+C:\Users\Vijay\source\repos\Sample\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
+C:\Development\Sample\bin\Debug\netcoreapp2.1\Sample.deps.json
+C:\Development\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.json
+C:\Development\Sample\bin\Debug\netcoreapp2.1\Sample.runtimeconfig.dev.json
+C:\Development\Sample\bin\Debug\netcoreapp2.1\Sample.dll
+C:\Development\Sample\bin\Debug\netcoreapp2.1\Sample.pdb
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.csprojAssemblyReference.cache
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.csproj.CoreCompileInputs.cache
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfoInputs.cache
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.AssemblyInfo.cs
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.dll
+C:\Development\Sample\obj\Debug\netcoreapp2.1\Sample.pdb
