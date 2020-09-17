@@ -1,1 +1,1 @@
-# Sample
+# Design pattern samples
